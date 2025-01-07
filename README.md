@@ -18,7 +18,7 @@
 ✔️ Contact me\
 ✔️ GitHub Profile
 
-To view a live example, **[click here](https://developerfolio.js.org/)**.
+To view a live example, **[click here](https://portfolio-new-three-lake.vercel.app/)**.
 
 
 ## Getting Started
@@ -35,13 +35,13 @@ git@2.17.1 or higher
 ### Docker Commands
 
 ```
-1) BUILD IMAGE : docker build -t developerfolio:latest .
-2) RUN IMAGE: docker run -t -p 3000:3000 developerfolio:latest
+1) BUILD IMAGE : docker build -t portfolio-new:latest .
+2) RUN IMAGE: docker run -t -p 3000:3000 portfolio-new:latest
 ```
 
 ## How To Use 
 
-From your command line, clone and run developerFolio:
+From your command line, clone and run portfolio-new:
 
 ```bash
 # Clone this repository

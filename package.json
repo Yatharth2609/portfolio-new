@@ -1,6 +1,6 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "developerfolio",
+  "homepage": "https://portfolio-new-three-lake.vercel.app/",
+  "name": "portfolio-new",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
